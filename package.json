@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Command Line tool for web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigm-lab/Web-Crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paradigm-lab/Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/paradigm-lab/Web-Crawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
