@@ -4,7 +4,7 @@
   "description": "Command Line tool for web crawler",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "repository": {
